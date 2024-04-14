@@ -1,0 +1,48 @@
+.nav-container{
+    box-shadow: 0px 0px 10px gray;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #D9D9D9;
+    padding-left: 30px;
+    padding-right: 20px;
+    height: 10vh;
+
+}
+.nav-heading{
+    color: rgb(54, 49, 49);
+    font-weight: bold;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Badal-logo{
+    color: white;
+    /* background-color: white; */
+    height: 10vh;
+}
+.About-container{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: space-between; */
+        height: 100vh;
+        /* margin: 0px; */
+        box-sizing: border-box;
+        /* border: 1px solid blue; */
+        /* background-color: red; */
+    }
+    
+
+.nav_container{
+        box-shadow: 0px 0px 10px gray;
+        /* border: 1px solid red; */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: #D9D9D9;
+        padding-left: 30px;
+        padding-right: 20px;
+        height: 12vh;
+    
+    }

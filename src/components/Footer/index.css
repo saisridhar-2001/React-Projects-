@@ -1,0 +1,17 @@
+.Footer_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 7vh;
+    background-color: #D9D9D9;
+    margin-top: 85vh;
+    width: 90vmax;
+    align-self: center;
+    position: bottom;
+}
+.footer{
+    font-family: 'Roboto';
+font-style: normal;
+font-size: 10px;
+}
